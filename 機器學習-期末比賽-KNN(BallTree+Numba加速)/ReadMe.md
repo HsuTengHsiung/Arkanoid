@@ -11,7 +11,7 @@
         1P資料夾/:  
           1.訓練用Code: BallTree_1P.py
             執行後會根據路徑去抓取pickle進行訓練，訓練完成後會產生nor.sav(正規化模型)及 BallTree_1P.sav(搜尋模型)
- ![image](https://github.com/HsuTengHsiung/Arkanoid/blob/master/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E6%9C%9F%E6%9C%AB%E6%AF%94%E8%B3%BD-KNN(BallTree%2BNumba%E5%8A%A0%E9%80%9F)/Capture.PNG)
+ ![image](https://github.com/HsuTengHsiung/Arkanoid/blob/aa32e6778c7c42a218193f544de309face54f96b/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E6%9C%9F%E6%9C%AB%E6%AF%94%E8%B3%BD-KNN(BallTree%2BNumba%E5%8A%A0%E9%80%9F)/Capture.PNG)
          
          2.執行ml_play_BallTree_1P.py
             執行後會根據路徑去抓取nor.sav(正規化模型)及 BallTree_1P.sav(搜尋模型)進行1P的自動對打
